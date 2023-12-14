@@ -2,7 +2,6 @@ import random
 import requests
 import time
 
-from pprint import pprint
 
 def your_turn():
     number_selection = input("Pick a number between 1 and 82: ")
